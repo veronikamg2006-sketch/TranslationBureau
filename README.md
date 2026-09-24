@@ -1,6 +1,5 @@
 # Бюро переводов
 
-![Build Status](https://github.com/veronikamg2006-sketch/TranslationBureau/actions/workflows/build.yml/badge.svg)
 [![Build, Test and Publish](https://github.com/veronikamg2006-sketch/TranslationBureau/actions/workflows/build.yml/badge.svg)](https://github.com/veronikamg2006-sketch/TranslationBureau/actions/workflows/build.yml)
 Web-приложение баз данных «Бюро переводов», разработанное в ходе изучения
 дисциплины «Разработка приложений баз данных для информационных систем».
